@@ -3,3 +3,4 @@ webpack-starter
 .vscode
 01*
 WorkingWithModules
+node_modules
